@@ -27,11 +27,12 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+node_models
+npm-debug.log
 
 # Thumbnails
 ._*
 
-node_models
 
 # Files that might appear on external disk
 .Spotlight-V100
